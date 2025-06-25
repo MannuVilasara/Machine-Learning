@@ -1,101 +1,101 @@
-employee_id,experience_level,department,preferred_tools,productivity_score,has_worked_before
-1,Intermediate,Engineering,Slack,78.52,Yes
-2,Expert,Marketing,Slack,87.68,No
-3,Advanced,Engineering,Zoom,77.55,Yes
-4,Intermediate,Sales,Teams,75.19,Yes
-5,Entry,Marketing,Teams,70.24,Yes
-6,Entry,Sales,Slack,56.88,Yes
-7,Entry,Marketing,Google Meet,63.82,Yes
-8,Advanced,Marketing,Teams,95.79,Yes
-9,Intermediate,HR,Google Meet,75.55,Yes
-10,Advanced,Sales,Teams,82.79,Yes
-11,Entry,Engineering,Google Meet,62.94,Yes
-12,Expert,Engineering,Zoom,93.75,No
-13,Advanced,Sales,Google Meet,99.1,Yes
-14,Entry,Engineering,Zoom,65.13,Yes
-15,Entry,Engineering,Zoom,56.02,Yes
-16,Entry,Sales,Google Meet,58.42,Yes
-17,Intermediate,Marketing,Zoom,77.54,Yes
-18,Intermediate,Sales,Slack,86.55,Yes
-19,Intermediate,Marketing,Zoom,82.92,Yes
-20,Entry,Engineering,Teams,65.03,Yes
-21,Intermediate,Engineering,Google Meet,79.24,Yes
-22,Entry,Engineering,Slack,64.6,Yes
-23,Entry,HR,Google Meet,75.61,Yes
-24,Intermediate,Marketing,Teams,72.23,Yes
-25,Intermediate,HR,Teams,80.47,Yes
-26,Advanced,HR,Teams,89.97,Yes
-27,Entry,Sales,Zoom,66.06,Yes
-28,Intermediate,HR,Zoom,75.02,Yes
-29,Intermediate,Sales,Google Meet,82.1,Yes
-30,Entry,Sales,Google Meet,74.04,Yes
-31,Intermediate,HR,Slack,79.54,Yes
-32,Entry,Marketing,Slack,68.02,Yes
-33,Entry,Marketing,Google Meet,69.74,Yes
-34,Expert,Marketing,Zoom,90.6,Yes
-35,Expert,Marketing,Teams,91.13,No
-36,Advanced,Marketing,Google Meet,73.15,Yes
-37,Intermediate,HR,Slack,68.95,Yes
-38,Entry,HR,Zoom,67.89,Yes
-39,Advanced,Engineering,Google Meet,72.93,Yes
-40,Intermediate,Marketing,Google Meet,74.44,Yes
-41,Entry,HR,Zoom,72.05,Yes
-42,Intermediate,Engineering,Google Meet,62.89,Yes
-43,Entry,Marketing,Zoom,63.2,Yes
-44,Expert,Sales,Teams,100.0,Yes
-45,Entry,Engineering,Zoom,69.57,Yes
-46,Advanced,HR,Zoom,82.79,Yes
-47,Intermediate,Sales,Zoom,79.57,Yes
-48,Intermediate,Sales,Google Meet,61.56,Yes
-49,Intermediate,Sales,Google Meet,63.19,Yes
-50,Entry,Engineering,Zoom,63.45,Yes
-51,Expert,HR,Google Meet,88.3,No
-52,Advanced,Sales,Slack,84.46,Yes
-53,Expert,Marketing,Slack,96.03,Yes
-54,Advanced,Sales,Google Meet,92.19,Yes
-55,Intermediate,Sales,Google Meet,71.2,Yes
-56,Expert,Engineering,Zoom,92.53,Yes
-57,Entry,Engineering,Teams,54.58,Yes
-58,Entry,HR,Google Meet,62.57,Yes
-59,Entry,Marketing,Slack,60.95,Yes
-60,Intermediate,Engineering,Zoom,73.36,Yes
-61,Intermediate,Sales,Google Meet,77.6,Yes
-62,Entry,HR,Slack,59.88,Yes
-63,Advanced,Sales,Slack,82.67,Yes
-64,Intermediate,Sales,Teams,89.17,Yes
-65,Entry,Engineering,Zoom,67.57,Yes
-66,Intermediate,HR,Zoom,76.9,Yes
-67,Entry,Marketing,Teams,68.11,Yes
-68,Advanced,Marketing,Teams,91.71,Yes
-69,Entry,Engineering,Zoom,66.23,Yes
-70,Expert,Engineering,Zoom,91.0,No
-71,Advanced,HR,Google Meet,92.76,Yes
-72,Entry,Marketing,Google Meet,62.0,Yes
-73,Entry,Marketing,Teams,70.03,Yes
-74,Advanced,Marketing,Google Meet,87.87,Yes
-75,Advanced,Sales,Slack,88.66,Yes
-76,Advanced,Marketing,Google Meet,92.81,Yes
-77,Advanced,Sales,Google Meet,82.3,Yes
-78,Entry,HR,Slack,69.01,Yes
-79,Intermediate,Sales,Teams,79.45,Yes
-80,Entry,HR,Slack,66.87,Yes
-81,Advanced,Marketing,Google Meet,86.47,Yes
-82,Intermediate,Marketing,Teams,78.77,Yes
-83,Intermediate,HR,Google Meet,67.1,Yes
-84,Entry,Engineering,Slack,74.32,Yes
-85,Intermediate,HR,Slack,70.68,Yes
-86,Intermediate,Engineering,Google Meet,67.78,Yes
-87,Advanced,Sales,Zoom,92.29,Yes
-88,Intermediate,Sales,Zoom,82.16,Yes
-89,Advanced,Sales,Slack,99.75,Yes
-90,Intermediate,Marketing,Slack,77.16,Yes
-91,Entry,Sales,Zoom,64.48,Yes
-92,Advanced,Engineering,Zoom,86.46,Yes
-93,Advanced,Sales,Google Meet,88.73,Yes
-94,Intermediate,HR,Google Meet,75.96,Yes
-95,Advanced,HR,Zoom,82.9,Yes
-96,Intermediate,Marketing,Google Meet,69.75,Yes
-97,Intermediate,HR,Google Meet,69.7,Yes
-98,Intermediate,Engineering,Teams,71.1,Yes
-99,Entry,Sales,Google Meet,55.38,Yes
-100,Entry,Marketing,Slack,72.05,Yes
+﻿caffeine_deviation,productivity
+-300,27.5
+-293.94,32.68
+-287.88,34.63
+-281.82,36.86
+-275.76,37.79
+-269.7,40.43
+-263.64,42.63
+-257.58,48.39
+-251.52,49.8
+-245.45,52.63
+-239.39,52.23
+-233.33,58.32
+-227.27,60.01
+-221.21,59.7
+-215.15,61.7
+-209.09,63.76
+-203.03,66.24
+-196.97,69.06
+-190.91,70.57
+-184.85,71.83
+-178.79,74.88
+-172.73,74.69
+-166.67,76.95
+-160.61,78.83
+-154.55,80.72
+-148.48,83.5
+-142.42,82.57
+-136.36,85.18
+-130.3,86.79
+-124.24,85.84
+-118.18,89.26
+-112.12,88.63
+-106.06,89.26
+-100,93.8
+-93.94,94.8
+-87.88,95.06
+-81.82,93.86
+-75.76,93.8
+-69.7,96.85
+-63.64,96.52
+-57.58,95.84
+-51.52,97.86
+-45.45,96.48
+-39.39,100.4
+-33.33,98.15
+-27.27,100.06
+-21.21,98.89
+-15.15,99.9
+-9.09,100.12
+-3.03,98.73
+3.03,101.87
+9.09,101.03
+15.15,101.57
+21.21,101.22
+27.27,99.8
+33.33,100.8
+39.39,97.11
+45.45,97.13
+51.52,96.06
+57.58,96.65
+63.64,96.32
+69.7,95.2
+75.76,96.72
+81.82,94.07
+87.88,92.95
+93.94,93.11
+100,90.56
+106.06,92.21
+112.12,88.24
+118.18,90.77
+124.24,88.74
+130.3,85.21
+136.36,83.15
+142.42,85.03
+148.48,83.19
+154.55,81.81
+160.61,80.45
+166.67,76.07
+172.73,75.57
+178.79,72.89
+184.85,74.12
+190.91,71.34
+196.97,68.29
+203.03,65.28
+209.09,64.27
+215.15,62.27
+221.21,61.77
+227.27,59.23
+233.33,57.99
+239.39,54.04
+245.45,50.28
+251.52,50.25
+257.58,47.97
+263.64,44.64
+269.7,42.89
+275.76,39.14
+281.82,36.55
+287.88,33.41
+293.94,28.98
+300,26.43

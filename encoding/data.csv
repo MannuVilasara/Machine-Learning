@@ -1,0 +1,101 @@
+employee_id,experience_level,department,preferred_tools,productivity_score,has_worked_before
+1,Intermediate,Engineering,Slack,78.52,Yes
+2,Expert,Marketing,Slack,87.68,No
+3,Advanced,Engineering,Zoom,77.55,Yes
+4,Intermediate,Sales,Teams,75.19,Yes
+5,Entry,Marketing,Teams,70.24,Yes
+6,Entry,Sales,Slack,56.88,Yes
+7,Entry,Marketing,Google Meet,63.82,Yes
+8,Advanced,Marketing,Teams,95.79,Yes
+9,Intermediate,HR,Google Meet,75.55,Yes
+10,Advanced,Sales,Teams,82.79,Yes
+11,Entry,Engineering,Google Meet,62.94,Yes
+12,Expert,Engineering,Zoom,93.75,No
+13,Advanced,Sales,Google Meet,99.1,Yes
+14,Entry,Engineering,Zoom,65.13,Yes
+15,Entry,Engineering,Zoom,56.02,Yes
+16,Entry,Sales,Google Meet,58.42,Yes
+17,Intermediate,Marketing,Zoom,77.54,Yes
+18,Intermediate,Sales,Slack,86.55,Yes
+19,Intermediate,Marketing,Zoom,82.92,Yes
+20,Entry,Engineering,Teams,65.03,Yes
+21,Intermediate,Engineering,Google Meet,79.24,Yes
+22,Entry,Engineering,Slack,64.6,Yes
+23,Entry,HR,Google Meet,75.61,Yes
+24,Intermediate,Marketing,Teams,72.23,Yes
+25,Intermediate,HR,Teams,80.47,Yes
+26,Advanced,HR,Teams,89.97,Yes
+27,Entry,Sales,Zoom,66.06,Yes
+28,Intermediate,HR,Zoom,75.02,Yes
+29,Intermediate,Sales,Google Meet,82.1,Yes
+30,Entry,Sales,Google Meet,74.04,Yes
+31,Intermediate,HR,Slack,79.54,Yes
+32,Entry,Marketing,Slack,68.02,Yes
+33,Entry,Marketing,Google Meet,69.74,Yes
+34,Expert,Marketing,Zoom,90.6,Yes
+35,Expert,Marketing,Teams,91.13,No
+36,Advanced,Marketing,Google Meet,73.15,Yes
+37,Intermediate,HR,Slack,68.95,Yes
+38,Entry,HR,Zoom,67.89,Yes
+39,Advanced,Engineering,Google Meet,72.93,Yes
+40,Intermediate,Marketing,Google Meet,74.44,Yes
+41,Entry,HR,Zoom,72.05,Yes
+42,Intermediate,Engineering,Google Meet,62.89,Yes
+43,Entry,Marketing,Zoom,63.2,Yes
+44,Expert,Sales,Teams,100.0,Yes
+45,Entry,Engineering,Zoom,69.57,Yes
+46,Advanced,HR,Zoom,82.79,Yes
+47,Intermediate,Sales,Zoom,79.57,Yes
+48,Intermediate,Sales,Google Meet,61.56,Yes
+49,Intermediate,Sales,Google Meet,63.19,Yes
+50,Entry,Engineering,Zoom,63.45,Yes
+51,Expert,HR,Google Meet,88.3,No
+52,Advanced,Sales,Slack,84.46,Yes
+53,Expert,Marketing,Slack,96.03,Yes
+54,Advanced,Sales,Google Meet,92.19,Yes
+55,Intermediate,Sales,Google Meet,71.2,Yes
+56,Expert,Engineering,Zoom,92.53,Yes
+57,Entry,Engineering,Teams,54.58,Yes
+58,Entry,HR,Google Meet,62.57,Yes
+59,Entry,Marketing,Slack,60.95,Yes
+60,Intermediate,Engineering,Zoom,73.36,Yes
+61,Intermediate,Sales,Google Meet,77.6,Yes
+62,Entry,HR,Slack,59.88,Yes
+63,Advanced,Sales,Slack,82.67,Yes
+64,Intermediate,Sales,Teams,89.17,Yes
+65,Entry,Engineering,Zoom,67.57,Yes
+66,Intermediate,HR,Zoom,76.9,Yes
+67,Entry,Marketing,Teams,68.11,Yes
+68,Advanced,Marketing,Teams,91.71,Yes
+69,Entry,Engineering,Zoom,66.23,Yes
+70,Expert,Engineering,Zoom,91.0,No
+71,Advanced,HR,Google Meet,92.76,Yes
+72,Entry,Marketing,Google Meet,62.0,Yes
+73,Entry,Marketing,Teams,70.03,Yes
+74,Advanced,Marketing,Google Meet,87.87,Yes
+75,Advanced,Sales,Slack,88.66,Yes
+76,Advanced,Marketing,Google Meet,92.81,Yes
+77,Advanced,Sales,Google Meet,82.3,Yes
+78,Entry,HR,Slack,69.01,Yes
+79,Intermediate,Sales,Teams,79.45,Yes
+80,Entry,HR,Slack,66.87,Yes
+81,Advanced,Marketing,Google Meet,86.47,Yes
+82,Intermediate,Marketing,Teams,78.77,Yes
+83,Intermediate,HR,Google Meet,67.1,Yes
+84,Entry,Engineering,Slack,74.32,Yes
+85,Intermediate,HR,Slack,70.68,Yes
+86,Intermediate,Engineering,Google Meet,67.78,Yes
+87,Advanced,Sales,Zoom,92.29,Yes
+88,Intermediate,Sales,Zoom,82.16,Yes
+89,Advanced,Sales,Slack,99.75,Yes
+90,Intermediate,Marketing,Slack,77.16,Yes
+91,Entry,Sales,Zoom,64.48,Yes
+92,Advanced,Engineering,Zoom,86.46,Yes
+93,Advanced,Sales,Google Meet,88.73,Yes
+94,Intermediate,HR,Google Meet,75.96,Yes
+95,Advanced,HR,Zoom,82.9,Yes
+96,Intermediate,Marketing,Google Meet,69.75,Yes
+97,Intermediate,HR,Google Meet,69.7,Yes
+98,Intermediate,Engineering,Teams,71.1,Yes
+99,Entry,Sales,Google Meet,55.38,Yes
+100,Entry,Marketing,Slack,72.05,Yes
