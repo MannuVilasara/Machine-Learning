@@ -13,8 +13,6 @@ root.title("Fuel Consumption Calculator")
 def calculate_consumption():
     try:
         slope = float(slope_entry.get())
-        if slope < 0:
-            raise ValueError("Slope cannot be negative.")
         consumption = model.predict(poly.fit_transform([[slope]]))
         result_label.config(text=f"Estimated Fuel Consumption: {consumption[0]:.2f} L")
     except ValueError as e:
