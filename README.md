@@ -2,7 +2,7 @@
 
 > this is just from my college training
 
-### Covered Topics
+## Covered Topics
 
 - linear regression
   - in linear1 and linear 2 folders
