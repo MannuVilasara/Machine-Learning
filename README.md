@@ -14,3 +14,7 @@
   - in poly1 and pol2 folders
 - encoding
   - in encoding folder
+- Logistic Regression
+  - in logistic folder
+- video input handling using opencv
+  - in video_handling folder
