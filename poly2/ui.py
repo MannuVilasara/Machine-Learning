@@ -3,11 +3,12 @@ from joblib import load
 from sklearn.preprocessing import PolynomialFeatures
 
 poly = PolynomialFeatures(degree=3)
-model = load('model.joblib')
+model = load("model.joblib")
 
 root = Tk()
 root.geometry("400x300")
 root.title("Productivity calculator")
+
 
 def calculate_productivity():
     try:
@@ -18,6 +19,7 @@ def calculate_productivity():
         result_label.config(text=f"Error: {e}")
     except Exception as e:
         result_label.config(text="An unexpected error occurred.")
+
 
 Label(root, text="Productivity Calculator", font=("Arial", 16)).pack(pady=10)
 Label(root, text="Enter the Caffeine Deviation:").pack(pady=5)

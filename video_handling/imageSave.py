@@ -8,11 +8,11 @@ while True:
         break
     cv2.imshow("Press 's' to Save image", frame)
     key = cv2.waitKey(1) & 0xFF
-    if key == ord('s'):
+    if key == ord("s"):
         cv2.imwrite("saved_image.png", frame)
         print("Image saved as 'saved_image.png'")
         cv2.imshow("Saved Image", frame)
-    elif key == ord('q'):
+    elif key == ord("q"):
         print("Exiting...")
         break
 

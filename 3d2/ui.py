@@ -1,11 +1,12 @@
 from tkinter import *
 from joblib import load
 
-model = load('model.joblib')
+model = load("model.joblib")
 
 root = Tk()
 root.title("Revenue Predictor")
 root.geometry("400x300")
+
 
 def predict_revenue():
     try:
@@ -15,6 +16,7 @@ def predict_revenue():
         result_label.config(text=f"Predicted Revenue in 1 Year: ${prediction[0]:.2f}")
     except ValueError:
         result_label.config(text="Please enter valid numbers.")
+
 
 Label(root, text="Revenue Predictor", font=("Arial", 16)).pack(pady=10)
 Label(root, text="Enter Funding Amount in USD:").pack(pady=5)

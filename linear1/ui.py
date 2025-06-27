@@ -33,4 +33,3 @@ SubmitButton = Button(root, text="Books", font=("Arial", 16), command=predict_bo
 SubmitButton.pack(pady=20)
 
 root.mainloop()
-

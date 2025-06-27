@@ -34,4 +34,3 @@ SubmitButton = Button(
 SubmitButton.pack(pady=20)
 
 root.mainloop()
-

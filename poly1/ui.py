@@ -4,11 +4,12 @@ from sklearn.preprocessing import PolynomialFeatures
 
 poly = PolynomialFeatures(degree=3)
 
-model = load('model.joblib')
+model = load("model.joblib")
 
 root = Tk()
 root.geometry("400x300")
 root.title("Fuel Consumption Calculator")
+
 
 def calculate_consumption():
     try:
@@ -19,6 +20,7 @@ def calculate_consumption():
         result_label.config(text=f"Error: {e}")
     except Exception as e:
         result_label.config(text="An unexpected error occurred.")
+
 
 Label(root, text="Fuel Consumption Calculator", font=("Arial", 16)).pack(pady=10)
 Label(root, text="Enter the slope of Road:").pack(pady=5)

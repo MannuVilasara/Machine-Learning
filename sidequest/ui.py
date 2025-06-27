@@ -1,11 +1,12 @@
 from tkinter import *
 from joblib import load
 
-model = load('model.joblib')
+model = load("model.joblib")
 
 root = Tk()
 root.title("Performance Index Predictor")
 root.geometry("400x300")
+
 
 def predict_performance_index():
     try:
@@ -15,6 +16,7 @@ def predict_performance_index():
         result_label.config(text=f"Performance Index: {prediction[0]:.2f}")
     except ValueError:
         result_label.config(text="Please enter valid numbers.")
+
 
 Label(root, text="Performance Index Predictor", font=("Arial", 16)).pack(pady=10)
 Label(root, text="Enter Study Hours:").pack(pady=5)
