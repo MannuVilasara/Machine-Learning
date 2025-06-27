@@ -25,3 +25,4 @@ build
 *.tox
 *.ipynb_checkpoints
 *.vscode
+uv.lock

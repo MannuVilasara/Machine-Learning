@@ -18,3 +18,5 @@
   - in logistic folder
 - video input handling using opencv
   - in video_handling folder
+- Emotion Detection
+  - in emotion-detection folder
